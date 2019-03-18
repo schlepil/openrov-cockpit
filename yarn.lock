@@ -6563,7 +6563,7 @@ sync@:
   version "0.2.5"
   resolved "https://registry.yarnpkg.com/sync/-/sync-0.2.5.tgz#3910bb9b66abee56542e2e70f0ce549031252df6"
   dependencies:
-    fibers ">=0.6"
+    fibers "==1.0.15"
 
 "systemd@git://github.com/plietar/node-systemd.git":
   version "0.3.0"
