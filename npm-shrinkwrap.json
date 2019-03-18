@@ -631,7 +631,7 @@
         },
         "fibers": {
             "version": "1.0.15",
-            "from": "fibers@>=0.6.0",
+            "from": "fibers@==1.0.15",
             "resolved": "https://registry.npmjs.org/fibers/-/fibers-1.0.15.tgz"
         },
         "filename-regex": {
